@@ -1,7 +1,7 @@
 {
   "name": "r-berto811/symfony-debug",
   "description": "Commands for comfortable development",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "library",
   "authors": [
     {
@@ -24,6 +24,5 @@
     }
   },
   "target-dir": "/",
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  "minimum-stability": "dev"
 }
