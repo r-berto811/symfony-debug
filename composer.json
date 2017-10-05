@@ -1,0 +1,27 @@
+{
+  "name": "r-berto811/symfony-debug",
+  "description": "Commands for comfortable development",
+  "version": "1.0.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "robert.l",
+      "email": "r.berto811.l@gmail.com"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
+  "require": {
+    "symfony/var-dumper": "3.*",
+  },
+  "autoload": {
+    "files": [
+      "src/Resources/functions/dd.php"
+    ],
+    "psr-4": {
+
+    }
+  },
+  "target-dir": "/"
+}
