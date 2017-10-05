@@ -1,7 +1,7 @@
 {
   "name": "r-berto811/symfony-debug",
   "description": "Commands for comfortable development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "library",
   "authors": [
     {
@@ -13,7 +13,7 @@
     "MIT"
   ],
   "require": {
-    "symfony/var-dumper": "3.*",
+    "symfony/var-dumper": "3.*"
   },
   "autoload": {
     "files": [
